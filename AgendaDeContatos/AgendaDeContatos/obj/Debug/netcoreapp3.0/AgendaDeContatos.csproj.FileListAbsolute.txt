@@ -1,0 +1,11 @@
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.exe
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.deps.json
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.runtimeconfig.json
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.runtimeconfig.dev.json
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.dll
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\bin\Debug\netcoreapp3.0\AgendaDeContatos.pdb
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\netcoreapp3.0\AgendaDeContatos.csprojAssemblyReference.cache
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\netcoreapp3.0\AgendaDeContatos.AssemblyInfoInputs.cache
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\netcoreapp3.0\AgendaDeContatos.AssemblyInfo.cs
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\netcoreapp3.0\AgendaDeContatos.dll
+C:\Users\Documentos\source\repos\AgendaDeContatos\AgendaDeContatos\obj\Debug\netcoreapp3.0\AgendaDeContatos.pdb
