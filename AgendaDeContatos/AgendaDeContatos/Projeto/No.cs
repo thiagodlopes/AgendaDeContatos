@@ -4,14 +4,14 @@ using System.Text;
 
 namespace AgendaDeContatos {
     public class No {
-        private int elemento;   //Define o tipo de dado que o nó irá comportar
-        private No proximo;     //Referencia a propria classe para apontar para o próximo elemento
+        private contato dado;   //Define o tipo de dado que o nó irá comportar
+        private No proximo;     //Referencia a propria classe para apontar para o próximo Dado
 
-        public void setElemento(int elemento) {
-            this.elemento = elemento;
+        public void setDado(contato dado) {
+            this.dado = dado;
         }
-        public int getElemento() {
-            return this.elemento;
+        public contato getDado() {
+            return this.dado;
         }
         public void setProximo(No proximo) {
             this.proximo = proximo;
@@ -21,6 +21,3 @@ namespace AgendaDeContatos {
         }
     }
 }
-
-
-

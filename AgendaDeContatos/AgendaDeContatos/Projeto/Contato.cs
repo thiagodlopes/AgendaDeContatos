@@ -4,11 +4,11 @@ using System.Text;
 
 namespace AgendaDeContatos {
      public class Contato {
-        public string Nome;
-        public int DataDeNascimento;
-        public string Endereco;
-        public string Cpf;
-        public string Telefone;
-        public string EMail; 
+        public string nome;
+        public int dataDeNascimento;
+        public string endereco;
+        public string cpf;
+        public string telefone;
+        public string eMail;
     }
 }

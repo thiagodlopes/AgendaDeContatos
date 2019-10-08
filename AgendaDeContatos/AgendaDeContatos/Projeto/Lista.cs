@@ -11,10 +11,10 @@ namespace AgendaDeContatos {
             this.inicio = null;
         }
 
-        public void inserir(int elemento) {
+        public void inserir(contato dado) { //Ver como ficacom os vários tipos de dado
             //precisa criar outro No
             No novo = new No();
-            novo.setElemento(elemento); //Insere o elemento no No
+            novo.setDado(dado); //Insere o dado no No
             novo.setProximo(null);      //Dps dela n vem ngm
 
             if (inicio == null) { //É o 1º No?
@@ -30,26 +30,26 @@ namespace AgendaDeContatos {
             }
         }
 
-        public void listar() {
+        public void listar() { //Precisa perguntar o critério e organizar baseado nele
             if (inicio == null) {
                 Console.WriteLine("Lista Vazia");
             }
             else {
                 No aux = inicio;
                 while (aux != null) {
-                    Console.WriteLine($"Elemento visto: {aux.getElemento()}");
+                    Console.WriteLine($"Dado visto: {aux.getDado()}");
                     aux = aux.getProximo();
                 }
             }
         }
 
-        public int retirar() {
-            //Considera que a lista sempre tem elementos
+        public contato retirar() { //Precisa consultar
+            //Considera que a lista sempre tem dados
             //Alguém na aplicação precisa, antes de remover, testar se a lista está vazia
             No aux = inicio;
-            int elemento = aux.getElemento();
+            contato dado = aux.getDado();
             inicio = aux.getProximo();
-            return elemento;
+            return dado;
         }
 
         public bool isEmpty() {
