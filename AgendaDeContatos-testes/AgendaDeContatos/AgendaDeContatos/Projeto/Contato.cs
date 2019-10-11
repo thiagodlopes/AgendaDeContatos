@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+/*
 namespace AgendaDeContatos {
      public class Contato {
         public string nome;
@@ -12,3 +12,4 @@ namespace AgendaDeContatos {
         public string eMail;
     }
 }
+*/
