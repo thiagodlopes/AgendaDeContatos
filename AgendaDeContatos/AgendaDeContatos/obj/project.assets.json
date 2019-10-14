@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Documentos\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\AgendaDeContatos.csproj",
-      "projectName": "AgendaDeContatos",
-      "projectPath": "C:\\Users\\Documentos\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\AgendaDeContatos.csproj",
+      "projectUniqueName": "C:\\Users\\Documentos\\source\\repos\\ListaEncadeada\\ListaEncadeada\\ListaEncadeada.csproj",
+      "projectName": "ListaEncadeada",
+      "projectPath": "C:\\Users\\Documentos\\source\\repos\\ListaEncadeada\\ListaEncadeada\\ListaEncadeada.csproj",
       "packagesPath": "C:\\Users\\Documentos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Documentos\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\obj\\",
+      "outputPath": "C:\\Users\\Documentos\\source\\repos\\ListaEncadeada\\ListaEncadeada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
